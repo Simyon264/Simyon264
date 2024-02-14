@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there 👋!
+
+**I pretend to code, in reality, I have no idea what I am doing.**
+
+Fun fact: Bees make honey.
 
 <!--
 **Simyon264/Simyon264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
