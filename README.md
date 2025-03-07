@@ -1,20 +1,16 @@
 ### Hello there 👋!
 
-**I pretend to code, in reality, I have no idea what I am doing.**
+My name is Simon and I live in Germany.\
+I know **JS/TS**, **Python**, a *bit* of **Lua**, **SQL**, **HTML**.\
+Very good with **C#**.
 
-Fun fact: Bees make honey.
+I am also a Lead Maintainer on Space Station 14.
 
-<!--
-**Simyon264/Simyon264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*If I can do something in C#, I will do it in C#.*\
+(C# is **not** holding me hostage *blinks rapidly*)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contact me
+- **Discord:** @simyon 
+- **Steam:** 839641420 
+- **E-Mail** service@unstablefoundation.de
+<sub>(This is a general "open to the public" E-Mail I use for all my services. Contact me there and if it's important enough we can switch to my personal E-Mail.)</sub>
